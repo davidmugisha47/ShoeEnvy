@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/banner/banner-43.jpg",
-    "title": "Wooden Chair (06)",
+    "image": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+    "title": "Addidas",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
-    "image": "/assets/img/banner/banner-44.jpg",
-    "title": "Sofa Collection (10)",
+    "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+    "title": "Nike",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
-    "image": "/assets/img/banner/banner-45.jpg",
-    "title": "Wooden Bed (06)",
+    "image": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+    "title": "Canvas",
     "url": "/shop-grid-standard"
   }
 ]

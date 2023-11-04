@@ -13,13 +13,13 @@ const VideoPopupTwo = ({ spaceBottomClass }) => {
         className="video-popup-2__left bg-img"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "/assets/img/bg/bg-7.jpg"
+            process.env.PUBLIC_URL + ""
           })`
         }}
       >
-        <div className="video-popup-2__content">
+        <div className="video-popup-2__content" >
           <h2 className="title mb-30">
-            Furniture 2024 <br /> Collections
+            Jordan 2024 <br /> Collections
           </h2>
           <p className="text mb-30">
             Lorem ipsum dolor sit amet consectetur adipisici elit sed do eiusm.
@@ -47,7 +47,7 @@ const VideoPopupTwo = ({ spaceBottomClass }) => {
         className="video-popup-2__right bg-img"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "/assets/img/bg/bg-8.jpg"
+            process.env.PUBLIC_URL + "https://www.kickscrew.com/cdn/shop/products/4_96472e92-a0d2-4906-9ed8-842fae400654_540x.jpg?v=1694075676"
           })`
         }}
       ></div>
