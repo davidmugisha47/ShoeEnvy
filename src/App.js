@@ -80,7 +80,7 @@ const App = () => {
                 path={process.env.PUBLIC_URL + "/shop-grid-standard"}
                 element={<ShopGridStandard/>}
               />
-              <Route
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/shop-grid-filter"}
                 element={<ShopGridFilter/>}
               />
@@ -111,7 +111,7 @@ const App = () => {
               <Route
                 path={process.env.PUBLIC_URL + "/shop-list-two-column"}
                 element={<ShopListTwoColumn/>}
-              />
+              /> */}
 
               {/* Shop product pages */}
               <Route
