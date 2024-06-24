@@ -71,7 +71,7 @@ const App = () => {
 
               {/* Homepages */}
               <Route
-                path={process.env.PUBLIC_URL + "/home"}
+                path={process.env.PUBLIC_URL + "/"}
                 element={<HomeFurnitureFour/>}
               />
 
